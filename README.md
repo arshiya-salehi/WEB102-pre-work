@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 https://www.loom.com/share/d7159f576b8d4b2f8504dae46e7ba789?sid=e075a2ff-42fe-4587-b1e0-31f31035bfd4
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -36,6 +36,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+some of the function and methods were new to me but the pre-work PDF files have helped me a lot to underestand them
 
 ## License
 
