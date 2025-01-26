@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='127.0.0.1:5500/index.html - 26 January 2025' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-127.0.0.1:5500/index.html - 26 January 2025
+<img src='https://www.loom.com/share/d7159f576b8d4b2f8504dae46e7ba789?sid=e075a2ff-42fe-4587-b1e0-31f31035bfd4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
