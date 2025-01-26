@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='127.0.0.1:5500/index.html - 26 January 2025' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+127.0.0.1:5500/index.html - 26 January 2025
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
